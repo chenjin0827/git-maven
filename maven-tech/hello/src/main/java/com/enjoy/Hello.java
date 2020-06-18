@@ -8,6 +8,6 @@ public class Hello
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!  姜颖  2.0，我是姜颖的徒弟，update" );
+        System.out.println( "Hello World!  姜颖  2.0，我是姜颖的徒弟，update，我是master" );
     }
 }
